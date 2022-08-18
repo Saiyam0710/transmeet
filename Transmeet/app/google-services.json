@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376993851600",
+    "project_id": "transmeet-78fc2",
+    "storage_bucket": "transmeet-78fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376993851600:android:850bb320c2d1f0bacbd6d5",
+        "android_client_info": {
+          "package_name": "com.example.transmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376993851600-e2jvk5fol598t1q6bsnd84mgm1shplh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZhYGNA-9ER-NH1ZHZtzQ4g3Cu6Y8L_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376993851600-e2jvk5fol598t1q6bsnd84mgm1shplh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

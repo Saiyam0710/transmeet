@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">376993851600-e2jvk5fol598t1q6bsnd84mgm1shplh1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">376993851600</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgZhYGNA-9ER-NH1ZHZtzQ4g3Cu6Y8L_Q</string>
+    <string name="google_app_id" translatable="false">1:376993851600:android:850bb320c2d1f0bacbd6d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgZhYGNA-9ER-NH1ZHZtzQ4g3Cu6Y8L_Q</string>
+    <string name="google_storage_bucket" translatable="false">transmeet-78fc2.appspot.com</string>
+    <string name="project_id" translatable="false">transmeet-78fc2</string>
+</resources>
